@@ -10,7 +10,7 @@ export default function Hero() {
                 height={150}
                 className="rounded-full mx-auto"
             />
-            <h1 className="mt-5 text-4xl font-bold">Hi, I'm [Your Name]</h1>
+            <h1 className="mt-5 text-4xl font-bold">{`Hi, I'm John`}</h1>
             <p className="mt-3 text-gray-600">Web Developer | Designer | Tech Enthusiast</p>
         </section>
     );
